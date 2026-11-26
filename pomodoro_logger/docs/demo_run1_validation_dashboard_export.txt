@@ -1,0 +1,229 @@
+
+        __/\__
+       /  \/  \        ____                      _
+      | (    ) |      |  _ \ ___  _ __ ___   ___ | |_ ___  _ __ ___
+      |  \__/  |      | |_) / _ \| '_ ` _ \ / _ \| __/ _ \| '__/ _ \
+       \      /       |  __/ (_) | | | | | | (_) | || (_) | | | (_) |
+        `----'        |_|   \___/|_| |_| |_|\___/ \__\___/|_|  \___/
+
+  Pomodoro Study Session Logger  v1.0.0
+  Track focused minutes by subject · Stay on target · Build a streak
+  Data file: /tmp/demo.json (40 sessions loaded)
+
+── MAIN MENU ───────────────────────────────────────────────────
+   1  Log a new study session
+   2  View all sessions
+   3  Search & filter
+   4  Summary dashboard
+   5  Warnings & alerts
+   6  Export reports (MD / TXT / CSV / chart)
+   7  Bulk import from CSV
+   8  Delete a session
+   9  Settings
+   0  Exit
+
+  Choose an option: 
+── LOG A NEW SESSION  (type q to cancel) ───────────────────────
+  Known subjects: Chemistry, Data Structures, English Literature, History, Machine Learning, Mathematics, Physics, Python Programming
+  Date YYYY-MM-DD [2026-11-26]:   ✗ Date must use the format YYYY-MM-DD (e.g. 2026-11-25).  (try again, or 'q' to cancel)
+  Date YYYY-MM-DD [2026-11-26]:   ✗ Date cannot be in the future.  (try again, or 'q' to cancel)
+  Date YYYY-MM-DD [2026-11-26]:   Subject:   ✗ Subject cannot be blank.  (try again, or 'q' to cancel)
+  Subject:   ✗ Subject may contain letters, digits, spaces and . , & + # ' / ( ) - only.  (try again, or 'q' to cancel)
+  Subject:   Focused minutes (1-480):   ✗ Focused minutes must be a whole number (got 'abc').  (try again, or 'q' to cancel)
+  Focused minutes (1-480):   ✗ Focused minutes must be between 1 and 480 (got 0).  (try again, or 'q' to cancel)
+  Focused minutes (1-480):   ✗ Focused minutes must be between 1 and 480 (got 9999).  (try again, or 'q' to cancel)
+  Focused minutes (1-480):   Pomodoros completed [3]:   ✗ Pomodoros must be between 1 and 20 (got 99).  (try again, or 'q' to cancel)
+  Pomodoros completed [3]:   Break minutes (0-240, optional) [0]:   ✗ Break minutes must be between 0 and 240 (got -5).  (try again, or 'q' to cancel)
+  Break minutes (0-240, optional) [0]:   Notes (optional, max 200): 
+  Review: 2026-11-26 · Mathematics · 75 min · 3 pomodoro(s) · break 10 min · “Integration practice”
+  Save this session? [Y/n]:   ✓ Saved as session #41.
+  2026-11-26 total so far: 1h 15m
+
+── MAIN MENU ───────────────────────────────────────────────────
+   1  Log a new study session
+   2  View all sessions
+   3  Search & filter
+   4  Summary dashboard
+   5  Warnings & alerts
+   6  Export reports (MD / TXT / CSV / chart)
+   7  Bulk import from CSV
+   8  Delete a session
+   9  Settings
+   0  Exit
+
+  Choose an option: 
+── EXECUTIVE SUMMARY ───────────────────────────────────────────
+  Status : ● NEEDS FOCUS  Averaging 87.9 min/day - below the 120 min goal.
+  Trend  : Steady ■ (+4.2% vs previous 7 days)
+
+  Period                    2026-10-29 → 2026-11-26
+  Total focused time        52h 41m (3161 min)
+  Sessions / pomodoros      41 / 130
+  Active days               23
+  Average per session       77.1 min
+  Average per active day    137.4 min
+  Longest session           480 min · Physics · 2026-11-10
+  Best day                  780 min on 2026-11-10
+  Top subject               Physics (31.8%)
+  Streak (current / best)   6 / 6 day(s)
+  Last 7 vs previous 7      615 vs 590 min
+  Today                     75 / 120 min goal
+
+── FOCUSED MINUTES BY SUBJECT ──────────────────────────────────
+  Subject                │ Minutes │ Sessions │ Pomos │    Avg │ Share %
+  ───────────────────────┼─────────┼──────────┼───────┼────────┼────────
+  Physics                │    1005 │        7 │    31 │  143.6 │    31.8
+  Mathematics            │     491 │        8 │    21 │   61.4 │    15.5
+  Data Structures        │     360 │        5 │    19 │   72.0 │    11.4
+  English Literature     │     350 │        5 │    15 │   70.0 │    11.1
+  Python Programming     │     310 │        7 │    16 │   44.3 │     9.8
+  Machine Learning       │     270 │        4 │    12 │   67.5 │     8.5
+  Chemistry              │     190 │        2 │     8 │   95.0 │     6.0
+  History                │     185 │        3 │     8 │   61.7 │     5.9
+
+  Physics            ████████████████████████████████████ 1005
+  Mathematics        ██████████████████ 491
+  Data Structures    █████████████ 360
+  English Literature █████████████ 350
+  Python Programming ███████████ 310
+  Machine Learning   ██████████ 270
+  Chemistry          ███████ 190
+  History            ███████ 185
+
+── LAST 14 DAYS ────────────────────────────────────────────────
+  11-13                                -
+  11-14 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇             130
+  11-15 ▇▇▇▇▇▇▇▇▇▇▇▇                   85
+  11-16 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇            140
+  11-17 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇             135
+  11-18 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇                 100
+  11-19                                -
+  11-20                                -
+  11-21 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇           145
+  11-22 ▇▇▇▇▇▇▇▇▇▇                     70
+  11-23 ▇▇▇▇▇▇▇▇                       60
+  11-24 ▇▇▇▇▇▇                         45
+  11-25 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 220
+  11-26 ▇▇▇▇▇▇▇▇▇▇                     75
+
+  Tip: use option 6 to export a PNG chart and full reports.
+
+── MAIN MENU ───────────────────────────────────────────────────
+   1  Log a new study session
+   2  View all sessions
+   3  Search & filter
+   4  Summary dashboard
+   5  Warnings & alerts
+   6  Export reports (MD / TXT / CSV / chart)
+   7  Bulk import from CSV
+   8  Delete a session
+   9  Settings
+   0  Exit
+
+  Choose an option: 
+── WARNINGS & ALERTS ───────────────────────────────────────────
+  ✖ CRITICAL  2026-11-10: 780 min logged in one day exceeds the 480 min limit.
+  ▲ WARNING   #19 2026-11-10 Physics: single session of 480 min is unusually long.
+  ▲ WARNING   #28 2026-11-16 Data Structures: 6 pomodoros in 40 min looks inconsistent.
+  ▲ WARNING   2 identical entries on 2026-11-22 for Python Programming (10 min) - possible double entry.
+  ℹ INFO      #12 2026-11-05 Mathematics: only 1 min - was this intentional?
+  ℹ INFO      #35 2026-11-22 Python Programming: breaks (20 min) exceed focus time.
+  ℹ INFO      #36 2026-11-22 Python Programming: breaks (20 min) exceed focus time.
+  ℹ INFO      5 of the last 7 days were below the 120 min daily goal.
+  ℹ INFO      Today: 75 of 120 min goal.
+
+  9 flag(s), 1 critical.
+
+── MAIN MENU ───────────────────────────────────────────────────
+   1  Log a new study session
+   2  View all sessions
+   3  Search & filter
+   4  Summary dashboard
+   5  Warnings & alerts
+   6  Export reports (MD / TXT / CSV / chart)
+   7  Bulk import from CSV
+   8  Delete a session
+   9  Settings
+   0  Exit
+
+  Choose an option: 
+── SEARCH & FILTER  (blank = skip a filter, q = cancel) ────────
+  Keyword (subject or notes):   Subjects: Chemistry, Data Structures, English Literature, History, Machine Learning, Mathematics, Physics, Python Programming
+  Category / subject contains:   From date YYYY-MM-DD:   To date YYYY-MM-DD:   Min minutes:   Max minutes:   Sort by (date/subject/minutes/pomodoros) [date]: 
+── 2 RESULT(S) ─────────────────────────────────────────────────
+    ID │ Date       │ Subject              │  Min │ Pom │ Brk │ Notes                         
+  ─────┼────────────┼──────────────────────┼──────┼─────┼─────┼───────────────────────────────
+    18 │ 2026-11-10 │ Mathematics          │  120 │   5 │  20 │ Integration by parts drills   
+    41 │ 2026-11-26 │ Mathematics          │   75 │   3 │  10 │ Integration practice          
+
+  Page 1/1 · 2 record(s) · 195 min total
+
+  By subject:
+  Mathematics        ████████████████████████████████████ 195
+
+── MAIN MENU ───────────────────────────────────────────────────
+   1  Log a new study session
+   2  View all sessions
+   3  Search & filter
+   4  Summary dashboard
+   5  Warnings & alerts
+   6  Export reports (MD / TXT / CSV / chart)
+   7  Bulk import from CSV
+   8  Delete a session
+   9  Settings
+   0  Exit
+
+  Choose an option: 
+── BULK IMPORT FROM CSV  (q = cancel) ──────────────────────────
+  Required columns: date, subject, focused_minutes. Optional: pomodoros, break_minutes, notes.
+  Try data/sample_sessions.csv or data/dirty_import.csv
+  CSV file path:   18 data row(s): 5 imported, 1 duplicate(s) skipped, 12 rejected.
+    row 4: Date must use the format YYYY-MM-DD (e.g. 2026-11-25).
+    row 5: Date cannot be in the future.
+    row 6: Subject cannot be blank.
+    row 7: Focused minutes must be a whole number (got 'abc').
+    row 8: Focused minutes must be between 1 and 480 (got 0).
+    row 9: Focused minutes must be between 1 and 480 (got 600).
+    row 10: Focused minutes must be a whole number (got '45.5').
+    row 11: 200 focused minutes is too many for 1 pomodoro(s) (max 90 min each). Increase the pomodoro count.
+    row 12: expected 6 columns but found 7.
+    row 13: expected 6 columns but found 3.
+    row 14: Subject may contain letters, digits, spaces and . , & + # ' / ( ) - only.
+    row 18: '2026-02-30' is not a real calendar date.
+  Full row-by-row error log: /tmp/demo_exports/import_errors.log
+
+── MAIN MENU ───────────────────────────────────────────────────
+   1  Log a new study session
+   2  View all sessions
+   3  Search & filter
+   4  Summary dashboard
+   5  Warnings & alerts
+   6  Export reports (MD / TXT / CSV / chart)
+   7  Bulk import from CSV
+   8  Delete a session
+   9  Settings
+   0  Exit
+
+  Choose an option: 
+── EXPORT REPORTS ──────────────────────────────────────────────
+  ✓ /tmp/demo_exports/report_20261126-022823.md
+  ✓ /tmp/demo_exports/audit_log_20261126-022823.txt
+  ✓ /tmp/demo_exports/sessions_20261126-022823.csv
+  ✓ /tmp/demo_exports/subject_summary_20261126-022823.csv
+  ✓ /tmp/demo_exports/chart_20261126-022823.png
+
+── MAIN MENU ───────────────────────────────────────────────────
+   1  Log a new study session
+   2  View all sessions
+   3  Search & filter
+   4  Summary dashboard
+   5  Warnings & alerts
+   6  Export reports (MD / TXT / CSV / chart)
+   7  Bulk import from CSV
+   8  Delete a session
+   9  Settings
+   0  Exit
+
+  Choose an option: 
+  Data saved. Keep focusing! 🍅
+

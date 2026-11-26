@@ -1,0 +1,53 @@
+
+        __/\__
+       /  \/  \        ____                      _
+      | (    ) |      |  _ \ ___  _ __ ___   ___ | |_ ___  _ __ ___
+      |  \__/  |      | |_) / _ \| '_ ` _ \ / _ \| __/ _ \| '__/ _ \
+       \      /       |  __/ (_) | | | | | | (_) | || (_) | | | (_) |
+        `----'        |_|   \___/|_| |_| |_|\___/ \__\___/|_|  \___/
+
+  Pomodoro Study Session Logger  v1.0.0
+  Track focused minutes by subject · Stay on target · Build a streak
+  Data file: /tmp/demo.json (46 sessions loaded)
+
+── MAIN MENU ───────────────────────────────────────────────────
+   1  Log a new study session
+   2  View all sessions
+   3  Search & filter
+   4  Summary dashboard
+   5  Warnings & alerts
+   6  Export reports (MD / TXT / CSV / chart)
+   7  Bulk import from CSV
+   8  Delete a session
+   9  Settings
+   0  Exit
+
+  Choose an option: 
+── SEARCH & FILTER  (blank = skip a filter, q = cancel) ────────
+  Keyword (subject or notes):   Subjects: Chemistry, Data Structures, English Literature, History, Machine Learning, Mathematics, Physics, Python Programming
+  Category / subject contains:   From date YYYY-MM-DD:   To date YYYY-MM-DD:   Min minutes:   Max minutes:   Sort by (date/subject/minutes/pomodoros) [date]: 
+── 1 RESULT(S) ─────────────────────────────────────────────────
+    ID │ Date       │ Subject              │  Min │ Pom │ Brk │ Notes                         
+  ─────┼────────────┼──────────────────────┼──────┼─────┼─────┼───────────────────────────────
+    41 │ 2026-11-26 │ Mathematics          │   75 │   3 │  10 │ Integration practice          
+
+  Page 1/1 · 1 record(s) · 75 min total
+
+  By subject:
+  Mathematics        ████████████████████████████████████ 75
+
+── MAIN MENU ───────────────────────────────────────────────────
+   1  Log a new study session
+   2  View all sessions
+   3  Search & filter
+   4  Summary dashboard
+   5  Warnings & alerts
+   6  Export reports (MD / TXT / CSV / chart)
+   7  Bulk import from CSV
+   8  Delete a session
+   9  Settings
+   0  Exit
+
+  Choose an option: 
+  Data saved. Keep focusing! 🍅
+

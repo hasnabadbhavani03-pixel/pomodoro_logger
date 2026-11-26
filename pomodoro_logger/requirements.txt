@@ -1,0 +1,5 @@
+# The terminal app needs NOTHING beyond Python 3.10+ (standard library only).
+# Optional extras:
+streamlit>=1.35      # modern web GUI  (python main.py --gui)
+pandas>=2.0          # used by the GUI tables/charts
+matplotlib>=3.7      # PNG chart export (CLI + GUI); text bars are used if missing

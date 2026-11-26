@@ -1,0 +1,78 @@
+==============================================================================
+POMODORO STUDY SESSION LOGGER - AUDIT LOG
+==============================================================================
+Generated      : 2026-11-26 02:28:23
+Data as of     : 2026-11-26
+Records        : 40
+Total minutes  : 3086
+SHA-256 (data) : 8389ba0cc0a91f2fb808e0dbaa51fe138a81045ab1f488df8d6e928800a27d83
+
+-- SUBJECT TOTALS -----------------------------------------------------------
+  Physics                       1005 min    7 sessions   32.6%
+  Mathematics                    416 min    7 sessions   13.5%
+  Data Structures                360 min    5 sessions   11.7%
+  English Literature             350 min    5 sessions   11.3%
+  Python Programming             310 min    7 sessions   10.0%
+  Machine Learning               270 min    4 sessions    8.7%
+  Chemistry                      190 min    2 sessions    6.2%
+  History                        185 min    3 sessions    6.0%
+
+-- STATUS: NEEDS FOCUS - Averaging 77.1 min/day - below the 120 min goal.
+-- TREND : Steady ■ (-8.5% vs previous 7 days)
+
+-- WARNINGS ----------------------------------------------------------------
+  [CRITICAL] DAILY_LIMIT: 2026-11-10: 780 min logged in one day exceeds the 480 min limit.
+  [WARNING ] LONG_SESSION: #19 2026-11-10 Physics: single session of 480 min is unusually long.
+  [WARNING ] RATIO: #28 2026-11-16 Data Structures: 6 pomodoros in 40 min looks inconsistent.
+  [WARNING ] DUPLICATE: 2 identical entries on 2026-11-22 for Python Programming (10 min) - possible double entry.
+  [INFO    ] SHORT_SESSION: #12 2026-11-05 Mathematics: only 1 min - was this intentional?
+  [INFO    ] BREAKS: #35 2026-11-22 Python Programming: breaks (20 min) exceed focus time.
+  [INFO    ] BREAKS: #36 2026-11-22 Python Programming: breaks (20 min) exceed focus time.
+  [INFO    ] GOAL_SHORTFALL: 5 of the last 7 days were below the 120 min daily goal.
+  [INFO    ] TODAY_GOAL: Today: 0 of 120 min goal.
+
+-- RECORDS ------------------------------------------------------------------
+    ID DATE       SUBJECT                     MIN  POM  BRK  NOTES
+     1 2026-10-29 Mathematics                  50    2    5  Calculus practice set
+     2 2026-10-30 Python Programming           50    2    5  Built a CLI todo app
+     3 2026-10-30 Mathematics                  45    2    5  Probability problems
+     4 2026-10-31 Physics                      90    4   15  Electromagnetism revision
+     5 2026-10-31 Data Structures              50    2    5  Linked list problems
+     6 2026-11-02 Mathematics                  50    2    5  Linear algebra revision
+     7 2026-11-02 Data Structures             120    5   20  Sorting algorithms
+     8 2026-11-03 History                      60    3   10  Industrial revolution notes
+     9 2026-11-04 Chemistry                   100    4   15  Titration lab prep
+    10 2026-11-05 Python Programming          120    5   20  Decorators and generators
+    11 2026-11-05 History                     100    4   15  Industrial revolution notes
+    12 2026-11-05 Mathematics                   1    1    0  Quick formula check (minimum boundary)
+    13 2026-11-07 Physics                      90    4   15  Thermodynamics notes
+    14 2026-11-07 Data Structures             100    4   15  Graph traversal BFS/DFS
+    15 2026-11-08 Machine Learning             30    2    5  Watched lecture series
+    16 2026-11-09 Python Programming           30    2    5  Built a CLI todo app
+    17 2026-11-10 Machine Learning             90    4   15  Watched lecture series
+    18 2026-11-10 Mathematics                 120    5   20  Integration by parts drills
+    19 2026-11-10 Physics                     480    8   60  Exam-eve marathon (maximum boundary)
+    20 2026-11-10 Chemistry                    90    4   15  Late-night extra revision -> day exceeds limit
+    21 2026-11-11 English Literature           90    4   15  Poetry analysis
+    22 2026-11-14 Mathematics                 100    4   15  Probability problems
+    23 2026-11-14 Python Programming           30    2    5  File handling exercises
+    24 2026-11-15 English Literature           25    1    0  Poetry analysis
+    25 2026-11-15 Physics                      60    3   10  Kinematics numericals
+    26 2026-11-16 Data Structures              50    2    5  Binary trees
+    27 2026-11-16 Machine Learning             50    2    5  Linear regression from scratch
+    28 2026-11-16 Data Structures              40    6   10  Distracted: 6 pomodoros but only 40 min (ratio anomaly)
+    29 2026-11-17 Physics                      45    2    5  Kinematics numericals
+    30 2026-11-17 English Literature           90    4   15  Essay draft on Hamlet
+    31 2026-11-18 Machine Learning            100    4   15  Watched lecture series
+    32 2026-11-21 Physics                     120    5   20  Optics lab report
+    33 2026-11-21 History                      25    1    0  Timeline memorisation
+    34 2026-11-22 Mathematics                  50    2    5  Calculus practice set
+    35 2026-11-22 Python Programming           10    1   20  Revised "decorators", generators, & closures - comma/quote test
+    36 2026-11-22 Python Programming           10    1   20  Revised "decorators", generators, & closures - comma/quote test
+    37 2026-11-23 Python Programming           60    3   10  Hackathon prep
+    38 2026-11-24 English Literature           45    2    5  Poetry analysis
+    39 2026-11-25 Physics                     120    5   20  Kinematics numericals
+    40 2026-11-25 English Literature          100    4   15  Poetry analysis
+
+==============================================================================
+END OF LOG

@@ -1,0 +1,20 @@
+Date,Topic,Minutes,Pomodoros,Break,Notes
+2026-11-23,Mathematics,50,2,5,Valid row using alias column names
+2026-11-24,physics,75,3,10,Valid row - subject normalised to Physics
+25/11/2026,Chemistry,30,1,5,Bad date format
+2026-12-25,History,45,2,5,Date in the future
+2026-11-18,,45,2,5,Blank subject
+2026-11-18,Mathematics,abc,2,5,Non-numeric minutes
+2026-11-18,Mathematics,0,1,0,Minutes below minimum
+2026-11-18,Mathematics,600,10,0,Minutes above maximum
+2026-11-18,Mathematics,45.5,2,5,Fractional minutes
+2026-11-18,Mathematics,200,1,0,Minutes impossible for one pomodoro
+2026-11-18,Mathematics,45,2,5,Too many columns,extra
+2026-11-18,Mathematics,45
+2026-11-18,<script>alert(1)</script>,30,1,5,Unsafe characters in subject
+2026-11-17,Data Structures,60,3,10,Valid row
+2026-11-17,Data Structures,60,3,10,Valid row
+2026-11-15,English Literature,25,,0,Valid - pomodoros left blank (auto 1)
+2026-02-30,Mathematics,30,1,5,Impossible calendar date
+
+2026-11-15,Machine Learning,90,4,15,Valid row

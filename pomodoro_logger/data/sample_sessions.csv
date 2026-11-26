@@ -1,0 +1,41 @@
+date,subject,focused_minutes,pomodoros,break_minutes,notes
+2026-10-29,Mathematics,50,2,5,Calculus practice set
+2026-10-30,Python Programming,50,2,5,Built a CLI todo app
+2026-10-30,Mathematics,45,2,5,Probability problems
+2026-10-31,Physics,90,4,15,Electromagnetism revision
+2026-10-31,Data Structures,50,2,5,Linked list problems
+2026-11-02,Mathematics,50,2,5,Linear algebra revision
+2026-11-02,Data Structures,120,5,20,Sorting algorithms
+2026-11-03,History,60,3,10,Industrial revolution notes
+2026-11-04,Chemistry,100,4,15,Titration lab prep
+2026-11-05,Python Programming,120,5,20,Decorators and generators
+2026-11-05,History,100,4,15,Industrial revolution notes
+2026-11-05,Mathematics,1,1,0,Quick formula check (minimum boundary)
+2026-11-07,Physics,90,4,15,Thermodynamics notes
+2026-11-07,Data Structures,100,4,15,Graph traversal BFS/DFS
+2026-11-08,Machine Learning,30,2,5,Watched lecture series
+2026-11-09,Python Programming,30,2,5,Built a CLI todo app
+2026-11-10,Machine Learning,90,4,15,Watched lecture series
+2026-11-10,Mathematics,120,5,20,Integration by parts drills
+2026-11-10,Physics,480,8,60,Exam-eve marathon (maximum boundary)
+2026-11-10,Chemistry,90,4,15,Late-night extra revision -> day exceeds limit
+2026-11-11,English Literature,90,4,15,Poetry analysis
+2026-11-14,Mathematics,100,4,15,Probability problems
+2026-11-14,Python Programming,30,2,5,File handling exercises
+2026-11-15,English Literature,25,1,0,Poetry analysis
+2026-11-15,Physics,60,3,10,Kinematics numericals
+2026-11-16,Data Structures,50,2,5,Binary trees
+2026-11-16,Machine Learning,50,2,5,Linear regression from scratch
+2026-11-16,Data Structures,40,6,10,Distracted: 6 pomodoros but only 40 min (ratio anomaly)
+2026-11-17,Physics,45,2,5,Kinematics numericals
+2026-11-17,English Literature,90,4,15,Essay draft on Hamlet
+2026-11-18,Machine Learning,100,4,15,Watched lecture series
+2026-11-21,Physics,120,5,20,Optics lab report
+2026-11-21,History,25,1,0,Timeline memorisation
+2026-11-22,Mathematics,50,2,5,Calculus practice set
+2026-11-22,Python Programming,10,1,20,"Revised ""decorators"", generators, & closures - comma/quote test"
+2026-11-22,Python Programming,10,1,20,"Revised ""decorators"", generators, & closures - comma/quote test"
+2026-11-23,Python Programming,60,3,10,Hackathon prep
+2026-11-24,English Literature,45,2,5,Poetry analysis
+2026-11-25,Physics,120,5,20,Kinematics numericals
+2026-11-25,English Literature,100,4,15,Poetry analysis

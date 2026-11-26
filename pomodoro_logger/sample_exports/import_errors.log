@@ -1,0 +1,16 @@
+Import log - 2026-11-26 02:28:24
+Source: data/dirty_import.csv
+18 data row(s): 5 imported, 1 duplicate(s) skipped, 12 rejected.
+
+Row 4: Date must use the format YYYY-MM-DD (e.g. 2026-11-25).
+Row 5: Date cannot be in the future.
+Row 6: Subject cannot be blank.
+Row 7: Focused minutes must be a whole number (got 'abc').
+Row 8: Focused minutes must be between 1 and 480 (got 0).
+Row 9: Focused minutes must be between 1 and 480 (got 600).
+Row 10: Focused minutes must be a whole number (got '45.5').
+Row 11: 200 focused minutes is too many for 1 pomodoro(s) (max 90 min each). Increase the pomodoro count.
+Row 12: expected 6 columns but found 7.
+Row 13: expected 6 columns but found 3.
+Row 14: Subject may contain letters, digits, spaces and . , & + # ' / ( ) - only.
+Row 18: '2026-02-30' is not a real calendar date.

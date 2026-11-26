@@ -1,0 +1,412 @@
+{
+  "schema_version": 1,
+  "next_id": 41,
+  "settings": {
+    "daily_goal": 120,
+    "daily_limit": 480,
+    "anomaly_session": 400,
+    "inactive_days": 3
+  },
+  "sessions": [
+    {
+      "id": 1,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-10-29",
+      "subject": "Mathematics",
+      "focused_minutes": 50,
+      "break_minutes": 5,
+      "notes": "Calculus practice set",
+      "pomodoros": 2
+    },
+    {
+      "id": 2,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-10-30",
+      "subject": "Python Programming",
+      "focused_minutes": 50,
+      "break_minutes": 5,
+      "notes": "Built a CLI todo app",
+      "pomodoros": 2
+    },
+    {
+      "id": 3,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-10-30",
+      "subject": "Mathematics",
+      "focused_minutes": 45,
+      "break_minutes": 5,
+      "notes": "Probability problems",
+      "pomodoros": 2
+    },
+    {
+      "id": 4,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-10-31",
+      "subject": "Physics",
+      "focused_minutes": 90,
+      "break_minutes": 15,
+      "notes": "Electromagnetism revision",
+      "pomodoros": 4
+    },
+    {
+      "id": 5,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-10-31",
+      "subject": "Data Structures",
+      "focused_minutes": 50,
+      "break_minutes": 5,
+      "notes": "Linked list problems",
+      "pomodoros": 2
+    },
+    {
+      "id": 6,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-02",
+      "subject": "Mathematics",
+      "focused_minutes": 50,
+      "break_minutes": 5,
+      "notes": "Linear algebra revision",
+      "pomodoros": 2
+    },
+    {
+      "id": 7,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-02",
+      "subject": "Data Structures",
+      "focused_minutes": 120,
+      "break_minutes": 20,
+      "notes": "Sorting algorithms",
+      "pomodoros": 5
+    },
+    {
+      "id": 8,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-03",
+      "subject": "History",
+      "focused_minutes": 60,
+      "break_minutes": 10,
+      "notes": "Industrial revolution notes",
+      "pomodoros": 3
+    },
+    {
+      "id": 9,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-04",
+      "subject": "Chemistry",
+      "focused_minutes": 100,
+      "break_minutes": 15,
+      "notes": "Titration lab prep",
+      "pomodoros": 4
+    },
+    {
+      "id": 10,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-05",
+      "subject": "Python Programming",
+      "focused_minutes": 120,
+      "break_minutes": 20,
+      "notes": "Decorators and generators",
+      "pomodoros": 5
+    },
+    {
+      "id": 11,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-05",
+      "subject": "History",
+      "focused_minutes": 100,
+      "break_minutes": 15,
+      "notes": "Industrial revolution notes",
+      "pomodoros": 4
+    },
+    {
+      "id": 12,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-05",
+      "subject": "Mathematics",
+      "focused_minutes": 1,
+      "break_minutes": 0,
+      "notes": "Quick formula check (minimum boundary)",
+      "pomodoros": 1
+    },
+    {
+      "id": 13,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-07",
+      "subject": "Physics",
+      "focused_minutes": 90,
+      "break_minutes": 15,
+      "notes": "Thermodynamics notes",
+      "pomodoros": 4
+    },
+    {
+      "id": 14,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-07",
+      "subject": "Data Structures",
+      "focused_minutes": 100,
+      "break_minutes": 15,
+      "notes": "Graph traversal BFS/DFS",
+      "pomodoros": 4
+    },
+    {
+      "id": 15,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-08",
+      "subject": "Machine Learning",
+      "focused_minutes": 30,
+      "break_minutes": 5,
+      "notes": "Watched lecture series",
+      "pomodoros": 2
+    },
+    {
+      "id": 16,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-09",
+      "subject": "Python Programming",
+      "focused_minutes": 30,
+      "break_minutes": 5,
+      "notes": "Built a CLI todo app",
+      "pomodoros": 2
+    },
+    {
+      "id": 17,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-10",
+      "subject": "Machine Learning",
+      "focused_minutes": 90,
+      "break_minutes": 15,
+      "notes": "Watched lecture series",
+      "pomodoros": 4
+    },
+    {
+      "id": 18,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-10",
+      "subject": "Mathematics",
+      "focused_minutes": 120,
+      "break_minutes": 20,
+      "notes": "Integration by parts drills",
+      "pomodoros": 5
+    },
+    {
+      "id": 19,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-10",
+      "subject": "Physics",
+      "focused_minutes": 480,
+      "break_minutes": 60,
+      "notes": "Exam-eve marathon (maximum boundary)",
+      "pomodoros": 8
+    },
+    {
+      "id": 20,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-10",
+      "subject": "Chemistry",
+      "focused_minutes": 90,
+      "break_minutes": 15,
+      "notes": "Late-night extra revision -> day exceeds limit",
+      "pomodoros": 4
+    },
+    {
+      "id": 21,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-11",
+      "subject": "English Literature",
+      "focused_minutes": 90,
+      "break_minutes": 15,
+      "notes": "Poetry analysis",
+      "pomodoros": 4
+    },
+    {
+      "id": 22,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-14",
+      "subject": "Mathematics",
+      "focused_minutes": 100,
+      "break_minutes": 15,
+      "notes": "Probability problems",
+      "pomodoros": 4
+    },
+    {
+      "id": 23,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-14",
+      "subject": "Python Programming",
+      "focused_minutes": 30,
+      "break_minutes": 5,
+      "notes": "File handling exercises",
+      "pomodoros": 2
+    },
+    {
+      "id": 24,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-15",
+      "subject": "English Literature",
+      "focused_minutes": 25,
+      "break_minutes": 0,
+      "notes": "Poetry analysis",
+      "pomodoros": 1
+    },
+    {
+      "id": 25,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-15",
+      "subject": "Physics",
+      "focused_minutes": 60,
+      "break_minutes": 10,
+      "notes": "Kinematics numericals",
+      "pomodoros": 3
+    },
+    {
+      "id": 26,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-16",
+      "subject": "Data Structures",
+      "focused_minutes": 50,
+      "break_minutes": 5,
+      "notes": "Binary trees",
+      "pomodoros": 2
+    },
+    {
+      "id": 27,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-16",
+      "subject": "Machine Learning",
+      "focused_minutes": 50,
+      "break_minutes": 5,
+      "notes": "Linear regression from scratch",
+      "pomodoros": 2
+    },
+    {
+      "id": 28,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-16",
+      "subject": "Data Structures",
+      "focused_minutes": 40,
+      "break_minutes": 10,
+      "notes": "Distracted: 6 pomodoros but only 40 min (ratio anomaly)",
+      "pomodoros": 6
+    },
+    {
+      "id": 29,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-17",
+      "subject": "Physics",
+      "focused_minutes": 45,
+      "break_minutes": 5,
+      "notes": "Kinematics numericals",
+      "pomodoros": 2
+    },
+    {
+      "id": 30,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-17",
+      "subject": "English Literature",
+      "focused_minutes": 90,
+      "break_minutes": 15,
+      "notes": "Essay draft on Hamlet",
+      "pomodoros": 4
+    },
+    {
+      "id": 31,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-18",
+      "subject": "Machine Learning",
+      "focused_minutes": 100,
+      "break_minutes": 15,
+      "notes": "Watched lecture series",
+      "pomodoros": 4
+    },
+    {
+      "id": 32,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-21",
+      "subject": "Physics",
+      "focused_minutes": 120,
+      "break_minutes": 20,
+      "notes": "Optics lab report",
+      "pomodoros": 5
+    },
+    {
+      "id": 33,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-21",
+      "subject": "History",
+      "focused_minutes": 25,
+      "break_minutes": 0,
+      "notes": "Timeline memorisation",
+      "pomodoros": 1
+    },
+    {
+      "id": 34,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-22",
+      "subject": "Mathematics",
+      "focused_minutes": 50,
+      "break_minutes": 5,
+      "notes": "Calculus practice set",
+      "pomodoros": 2
+    },
+    {
+      "id": 35,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-22",
+      "subject": "Python Programming",
+      "focused_minutes": 10,
+      "break_minutes": 20,
+      "notes": "Revised \"decorators\", generators, & closures - comma/quote test",
+      "pomodoros": 1
+    },
+    {
+      "id": 36,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-22",
+      "subject": "Python Programming",
+      "focused_minutes": 10,
+      "break_minutes": 20,
+      "notes": "Revised \"decorators\", generators, & closures - comma/quote test",
+      "pomodoros": 1
+    },
+    {
+      "id": 37,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-23",
+      "subject": "Python Programming",
+      "focused_minutes": 60,
+      "break_minutes": 10,
+      "notes": "Hackathon prep",
+      "pomodoros": 3
+    },
+    {
+      "id": 38,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-24",
+      "subject": "English Literature",
+      "focused_minutes": 45,
+      "break_minutes": 5,
+      "notes": "Poetry analysis",
+      "pomodoros": 2
+    },
+    {
+      "id": 39,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-25",
+      "subject": "Physics",
+      "focused_minutes": 120,
+      "break_minutes": 20,
+      "notes": "Kinematics numericals",
+      "pomodoros": 5
+    },
+    {
+      "id": 40,
+      "created_at": "2026-11-26T02:34:08",
+      "date": "2026-11-25",
+      "subject": "English Literature",
+      "focused_minutes": 100,
+      "break_minutes": 15,
+      "notes": "Poetry analysis",
+      "pomodoros": 4
+    }
+  ]
+}
